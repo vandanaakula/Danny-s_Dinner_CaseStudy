@@ -21,9 +21,49 @@ Three datasets were used for this analysis:
 - *sales:* Records customer orders, including customer_id, order_date, and product_id.
 - *menu:* Maps product_id to menu items and prices.
 - *members:* Contains customer_id and their join_date in the loyalty program.
+
+  ---
+  
 ### Entity Relationship Diagram:
 
-![Danny's Diner]()
+![Danny's Diner](https://github.com/vandanaakula/Danny-s_Dinner_CaseStudy/blob/main/Er-diagram.png)
+
+
+---
+
+## 📝 Case Study Questions
+
+The analysis addressed the following questions:
+
+1. **What is the total amount each customer spent at the restaurant?**
+2. **How many days has each customer visited the restaurant?**
+3. **What was the first item from the menu purchased by each customer?**
+4. **What is the most purchased item on the menu and how many times was it purchased by all customers?**
+5. **Which item was the most popular for each customer?**
+6. **Which item was purchased first by the customer after they became a member?**
+7. **Which item was purchased just before the customer became a member?**
+8. **What is the total items and amount spent for each member before they became a member?**
+9. **How many points would each customer have based on their spending?**
+10. **How many points do customers A and B have at the end of January, including 2x points for their first week as members?**
+
+---
+
+## 📂 Repository Structure
+
+- **SQL:** Contains all the SQL queries used for answering the case study questions.
+- **Data:** Includes the datasets used in the analysis (`sales.csv`, `menu.csv`, and `members.csv`).
+
+---
+
+## 🛠️ Tools & Technologies
+- **SQL Dialect:** PostgreSQL 13
+
+## Author
+This project was carried out by AKULA VENKATA SAI VANDANA.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vandana-akula-371695250/) for feedback, suggestions, or collaboration opportunities.
+
+
 
 
 
