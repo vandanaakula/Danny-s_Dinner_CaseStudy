@@ -51,7 +51,7 @@ The analysis addressed the following questions:
 ## 📂 Repository Structure
 
 - **SQL:** Contains all the SQL queries used for answering the case study questions.
-- **Data:** Includes the datasets used in the analysis (`sales.csv`, `menu.csv`, and `members.csv`).
+- **Data:** Includes the datasets used in the analysis (`sales`, `menu`, and `members`).
 
 ---
 
